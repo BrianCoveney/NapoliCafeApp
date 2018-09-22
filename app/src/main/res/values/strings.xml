@@ -1,0 +1,18 @@
+<resources>
+    <!--Nav drawer strings-->
+    <string name="app_name">NapoliCafe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--General strings-->
+    <string name="button_directions">Find Us</string>
+    <string name="button_call_us">Call Us</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="phn_num">(021) 484 1002</string>
+    <string name="menu">Menu</string>
+
+</resources>
