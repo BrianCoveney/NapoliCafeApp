@@ -20,6 +20,7 @@ public abstract class BaseActivity extends AppCompatActivity
 
     protected ConstraintLayout contentConstraintLayout;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,6 +38,8 @@ public abstract class BaseActivity extends AppCompatActivity
 
         NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+
     }
 
     @Override

@@ -15,4 +15,10 @@
     <string name="phn_num">(021) 484 1002</string>
     <string name="menu">Menu</string>
 
+    <string name="facebook_app_id">701635690197194</string>
+    <string name="fb_login_protocol_scheme">fb701635690197194</string>
+    <string name="user_id">id</string>
+    <string name="user_name">name</string>
+    <string name="user_email">email</string>
+
 </resources>
