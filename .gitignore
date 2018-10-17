@@ -76,3 +76,7 @@ fabric.properties
 /build
 /captures
 .externalNativeBuild
+gradle/
+gradle.properties*
+gradlew*
+gradlew.bat*
